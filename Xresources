@@ -1,0 +1,7 @@
+! ajustando el tipo y tamano de fuente
+xterm*faceName: Monospace
+xterm*faceSize: 12
+
+! ajustando el fondo y el color de letra
+xterm*background: #312c30
+xterm*foreground: #ffe48e
